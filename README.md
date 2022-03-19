@@ -1,1 +1,1 @@
-# PAMO
+# PAMO Bartosz Bizoń
