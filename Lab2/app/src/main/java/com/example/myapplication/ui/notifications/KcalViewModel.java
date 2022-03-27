@@ -1,16 +1,16 @@
-package com.example.myapplication.ui.home;
+package com.example.myapplication.ui.notifications;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-public class HomeViewModel extends ViewModel {
+public class KcalViewModel extends ViewModel {
 
     private final MutableLiveData<String> mText;
 
-    public HomeViewModel() {
+    public KcalViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("Choose what you want to do :)");
+        mText.setValue("This is notifications fragment");
     }
 
     public LiveData<String> getText() {

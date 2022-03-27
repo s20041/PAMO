@@ -3,12 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/drawable/background_splashscreen.xml" value="0.107" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/drawable/foodlogo.xml" value="0.238" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/drawable/ic_baseline_no_food_24.xml" value="0.267" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.2105" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1705" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.267" />
         <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/drawable/splash_src.xml" value="0.252" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/layout/activity_home.xml" value="0.17831813576494426" />
         <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/layout/activity_main.xml" value="0.14" />
-        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/layout/fragment_dashboard.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/layout/fragment_bmi.xml" value="0.290625" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/layout/fragment_dashboard.xml" value="0.5" />
         <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/layout/fragment_home.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/layout/fragment_kcal.xml" value="0.67" />
         <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/layout/fragment_notifications.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/layout/fragment_recipe.xml" value="0.5524752475247525" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/layout/fragment_regulations.xml" value="0.26197916666666665" />
         <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/menu/bottom_nav_menu.xml" value="0.35" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.267" />
       </map>
     </option>
   </component>

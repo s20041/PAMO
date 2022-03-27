@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/mobile_navigation"
@@ -12,14 +13,21 @@
         tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/navigation_dashboard"
-        android:name="com.example.myapplication.ui.dashboard.DashboardFragment"
-        android:label="@string/title_dashboard"
-        tools:layout="@layout/fragment_dashboard" />
+        android:id="@+id/navigation_bmi"
+        android:name="com.example.myapplication.ui.bmi.BmiFragment"
+        android:label="@string/title_bmi"
+        tools:layout="@layout/fragment_bmi" />
 
     <fragment
-        android:id="@+id/navigation_notifications"
-        android:name="com.example.myapplication.ui.notifications.NotificationsFragment"
-        android:label="@string/title_notifications"
-        tools:layout="@layout/fragment_notifications" />
+        android:id="@+id/navigation_kcal"
+        android:name="com.example.myapplication.ui.notifications.KcalFragment"
+        android:label="@string/title_kcal"
+        tools:layout="@layout/fragment_kcal" />
+
+    <fragment
+        android:id="@+id/navigation_recipe"
+        android:name="com.example.myapplication.ui.recipe.RecipeFragment"
+        android:label="@string/title_recipe"
+        tools:layout="@layout/fragment_recipe" />
+
 </navigation>

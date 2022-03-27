@@ -1,14 +1,13 @@
-package com.example.myapplication.ui.notifications;
+package com.example.myapplication.ui.recipe;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-public class NotificationsViewModel extends ViewModel {
-
+public class RecipeViewModel {
     private final MutableLiveData<String> mText;
 
-    public NotificationsViewModel() {
+    public RecipeViewModel() {
         mText = new MutableLiveData<>();
         mText.setValue("This is notifications fragment");
     }
