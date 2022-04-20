@@ -21,8 +21,13 @@
         android:title="@string/title_kcal" />
 
     <item
-        android:id="@+id/navigation_recipe"
-        android:icon="@drawable/ic_notifications_black_24dp"
-        android:title="@string/title_recipe" />
+        android:id="@+id/navigation_quiz"
+        android:icon="@drawable/ic_outline_quiz"
+        android:title="@string/title_quiz" />
+
+    <item
+        android:id="@+id/navigation_game"
+        android:icon="@drawable/ic_baseline_videogame_asset_24"
+        android:title="@string/title_game" />
 
 </menu>
