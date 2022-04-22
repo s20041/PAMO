@@ -1,3 +1,4 @@
-# Application Calculate Kcal, BMI and recipes
+# Application new Functions Quiz and Game
 
-![AppViews](https://user-images.githubusercontent.com/48855434/160291092-873aa58c-6bb1-4f47-bff8-7b39ace08860.png)
+![QuizAndGame](https://user-images.githubusercontent.com/48855434/164700213-28e9395e-1f15-47c3-be34-5ccf4b95d798.png)
+
