@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:labelVisibilityMode="labeled">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home"
+        android:visible="true"
+        tools:visible="true" />
+    <item
+        android:id="@+id/navigation_bmi"
+        android:icon="@drawable/ic_baseline_accessibility_24"
+        android:title="@string/title_bmi" />
+
+    <item
+        android:id="@+id/navigation_kcal"
+        android:icon="@drawable/ic_baseline_no_food_24"
+        android:title="@string/title_kcal" />
+
+    <item
+        android:id="@+id/navigation_quiz"
+        android:icon="@drawable/ic_outline_quiz"
+        android:title="@string/title_quiz" />
+
+    <item
+        android:id="@+id/navigation_game"
+        android:icon="@drawable/ic_baseline_videogame_asset_24"
+        android:title="@string/title_game" />
+
+</menu>
