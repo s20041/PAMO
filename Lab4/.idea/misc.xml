@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/barte/Desktop/UczelniaSemestry/uczelniaSemestr 8/PAMO/PamoRepo/PAMO/Lab4/app/src/main/res/layout/fragment_quiz.xml" value="0.21822916666666667" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/drawable/background_splashscreen.xml" value="0.107" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/drawable/foodlogo.xml" value="0.238" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/drawable/ic_baseline_no_food_24.xml" value="0.267" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.2105" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1705" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.267" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/drawable/splash_src.xml" value="0.252" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/layout/activity_home.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/layout/activity_main.xml" value="0.14" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/layout/fragment_bmi.xml" value="0.290625" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/layout/fragment_dashboard.xml" value="0.5" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/layout/fragment_game.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/layout/fragment_home.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/layout/fragment_kcal.xml" value="0.22" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/layout/fragment_notifications.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/layout/fragment_quiz.xml" value="0.33" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/layout/fragment_recipe.xml" value="0.5524752475247525" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/layout/fragment_regulations.xml" value="0.26197916666666665" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/menu/bottom_nav_menu.xml" value="0.35" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.267" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab3/app/src/main/res/drawable/ic_baseline_fastfood_24.xml" value="0.2065" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab3/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab3/app/src/main/res/layout/fragment_cannon.xml" value="0.18" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab3/app/src/main/res/layout/fragment_game.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/barte/Desktop/uczelniaSemestr8/PAMO/PamoRepo/PAMO/Lab3/app/src/main/res/layout/fragment_quiz.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

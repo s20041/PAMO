@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_home">Home</string>
+    <string name="title_bmi">BMI</string>
+    <string name="title_kcal">Kcal</string>
+    <string name="title_recipe">Recipes</string>
+    <string name="title_quiz">Quiz</string>
+    <string name="title_game">Game</string>
+
+
+    <string name="question1">1. The ill effects of smoking were not known until recently.</string>
+    <string name="question2">2. Humans get most of the protein they need from water.</string>
+    <string name="question3">3. Heatstroke is reversible.</string>
+    <string name="question4">4. A human will bleed to death on losing 10 percent of his or her blood.</string>
+    <string name="question5">5. Humans can live for seven weeks without food.</string>
+    <string name="question6">6. Humans can live without water for a week.</string>
+
+    <string name="answer1">false</string>
+    <string name="answer2">false</string>
+    <string name="answer3">true</string>
+    <string name="answer4">false</string>
+    <string name="answer5">true</string>
+    <string name="answer6">true</string>
+
+    <string name="finalScore">Final Score : </string>
+
+    <string name="results_format">Shots fired: %1$d\nTotal time: %2$.1f</string>
+    <string name="reset_game">Reset Game</string>
+    <string name="time_remaining_format">Time remaining: %.1f seconds</string>
+    <string name="win">You win!</string>
+    <string name="lose">You lose!</string>
+</resources>
